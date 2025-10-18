@@ -8,4 +8,6 @@ This is the original repository for storing the Laboratory works for the Cryptog
 
 ## Table of Contents
 
-- [Laboratory 1](lab1/README)
+- [Laboratory 1](https://github.com/AlexDandy77/CS-FAF-Labs/blob/main/lab1/README.md)
+- [Laboratory 2](https://github.com/AlexDandy77/CS-FAF-Labs/blob/main/lab2/README.docx)
+- [Laboratory 3](https://github.com/AlexDandy77/CS-FAF-Labs/blob/main/lab3/README.md)
